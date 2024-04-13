@@ -1,0 +1,13 @@
+[
+  
+  {
+    "name": "Rock, Paper, Scissors",
+    "desc": "Build a Rock, Paper, Scissors game using Python.",
+    "image": "https://www.vecteezy.com/vector-art/690792-rock-paper-scissors-hand-icons",
+    "category": "rock",
+    "links": {
+      "view": "https://",
+      "code": "https://github.com"
+    }
+  }
+]
